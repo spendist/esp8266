@@ -33,4 +33,9 @@
  - 生成的.dat文件，连同编写好的index.html, logo.jpg 一并放入开发环境的 $projectPath/$projectName/data 目录中.
  - 使用 Arduino的 updata 实用工具完成数据文件上传。
 
+## 效果图 ##
+
+![Alt 实施效果图](./20190621223102.jpg)
+
+
 ## 欢迎交流 ##
